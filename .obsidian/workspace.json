@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "8f5ab154e9975faa",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a4ffdc72c72f7a46",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "mk-ever-view",
-              "state": {
-                "path": "Tags"
-              },
-              "pinned": true,
-              "icon": "columns",
-              "title": "Overview"
-            }
-          }
-        ]
-      },
-      {
         "id": "feffecb340cb0c25",
         "type": "tabs",
         "children": [
@@ -45,30 +25,31 @@
             "id": "35355de134a048a9",
             "type": "leaf",
             "state": {
-              "type": "mk-uri-view",
-              "state": {
-                "path": "https://www.make.md/static/latest.md"
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "https://www.make.md/static/latest.md"
+              "title": "New tab"
             }
           },
           {
             "id": "e49a36589c200372",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,7 +133,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks"
             }
           },
           {
@@ -171,12 +151,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links"
             }
           },
           {
@@ -200,13 +179,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline"
             }
           },
           {
@@ -240,7 +218,17 @@
   },
   "active": "0d51012b0038fd35",
   "lastOpenFiles": [
+    "Meeting Minutes.md",
+    "Food.md",
+    "Drinks.md",
+    "Safety.md",
+    "Test Trip.md",
+    "Routes And Map Documentation.md",
+    "Equipment.md",
+    "General Planning.md",
     "README.md",
+    "Untitled.canvas",
+    "//Untitled.canvas",
     "Vault.md",
     "Attachments/Attachments.md",
     "Attachments",
