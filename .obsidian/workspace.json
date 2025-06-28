@@ -4,6 +4,26 @@
     "type": "split",
     "children": [
       {
+        "id": "8f5ab154e9975faa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4ffdc72c72f7a46",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "mk-ever-view",
+              "state": {
+                "path": "Tags"
+              },
+              "pinned": true,
+              "icon": "columns",
+              "title": "Overview"
+            }
+          }
+        ]
+      },
+      {
         "id": "feffecb340cb0c25",
         "type": "tabs",
         "children": [
@@ -218,10 +238,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e49a36589c200372",
+  "active": "0d51012b0038fd35",
   "lastOpenFiles": [
-    "Turn this on.png",
-    "Tags",
-    "README.md"
+    "README.md",
+    "Vault.md",
+    "Attachments/Attachments.md",
+    "Attachments",
+    "Attachments/Turn this on.png",
+    "Tags"
   ]
 }
