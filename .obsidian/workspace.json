@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "35355de134a048a9",
+            "id": "e49a36589c200372",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,23 +33,6 @@
               },
               "icon": "lucide-file",
               "title": "README"
-            }
-          },
-          {
-            "id": "e49a36589c200372",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
             }
           }
         ],
@@ -107,7 +90,7 @@
             }
           },
           {
-            "id": "0d51012b0038fd35",
+            "id": "ae6b67d17350cf59",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -200,8 +183,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -223,25 +206,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35355de134a048a9",
+  "active": "e49a36589c200372",
   "lastOpenFiles": [
-    "Organization/Organization.md",
+    "Attachments/MakeSSHConfig.png",
+    "Attachments/MakeSureYourKeyIsThere.png",
+    "Attachments/PasteKeyAndSave.png",
+    "Attachments/GetPublicKey.png",
+    "Attachments/GenerateAnSSHKey.png",
+    "Attachments/NavigateToSSHKeySettings.png",
+    "Attachments/OpenGithub Settings.png",
     "Untitled.canvas",
+    "Attachments/Errors.png",
+    "To Do For Next Meeting;.md",
+    "Attachments/Attachments.md",
+    "README.md",
+    "Attachments/TrustAuthor.png",
+    "Attachments/OpenFolderAsVault.png",
+    "Attachments/SelectTheFolderDownloadedByGitClone.png",
+    "Food.md",
+    "Drinks.md",
+    "Test Trip.md",
+    "Equipment.md",
+    "Routes And Map Documentation.md",
+    "General Planning.md",
+    "Tags",
+    "Organization/Organization.md",
     "Organization",
     "//Untitled.canvas",
-    "Food.md",
     "Meeting Minutes.md",
-    "Drinks.md",
     "Safety.md",
-    "Test Trip.md",
-    "Routes And Map Documentation.md",
-    "Equipment.md",
-    "General Planning.md",
-    "README.md",
     "Vault.md",
-    "Attachments/Attachments.md",
-    "Attachments",
-    "Attachments/Turn this on.png",
-    "Tags"
+    "Attachments"
   ]
 }
