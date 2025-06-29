@@ -30,6 +30,9 @@ Host github.com
 ```
 
 ##### Git
+- Add your git account info with the following 2 commands:
+	- `git config --global user.email "yourmail@gmail.com"`
+	- `git config --global user.name "Yourname"`
 
 
 
