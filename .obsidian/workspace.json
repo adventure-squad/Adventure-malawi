@@ -4,6 +4,24 @@
     "type": "split",
     "children": [
       {
+        "id": "05da89657843f0dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43f375f1bb448d14",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "mk-ever-view",
+              "state": {},
+              "pinned": true,
+              "icon": "columns",
+              "title": "Overview"
+            }
+          }
+        ]
+      },
+      {
         "id": "feffecb340cb0c25",
         "type": "tabs",
         "children": [
@@ -13,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "tmp/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -191,12 +209,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e49a36589c200372",
+  "active": "43f375f1bb448d14",
   "lastOpenFiles": [
+    "tmp/tmp.md",
+    "tmp",
     "Attachments/Pasted image 20250705105212.png",
     "Attachments/CloneRepo.png",
     "Attachments/SelectCLIand3rdPartySofrware.png",
-    "README.md",
+    "tmp/README.md",
     "Tags",
     "Attachments/AddGitAccountInfo.png",
     "Attachments/MakeSSHConfig.png",
@@ -205,7 +225,6 @@
     "Attachments/GetPublicKey.png",
     "Attachments/GenerateAnSSHKey.png",
     "Attachments/NavigateToSSHKeySettings.png",
-    "Attachments/OpenGithub Settings.png",
     "Untitled.canvas",
     "To Do For Next Meeting;.md",
     "Attachments/Attachments.md",
