@@ -89,7 +89,7 @@
             }
           },
           {
-            "id": "0b165d14164eda0f",
+            "id": "a6e85d3a49244813",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -207,6 +207,7 @@
   },
   "active": "04d739d062e1d88a",
   "lastOpenFiles": [
+    "Tags",
     "General Planning.md",
     "Test Trip.md",
     "README.md",
@@ -214,7 +215,6 @@
     "Attachments/004DSCN_6216.jpg",
     "Drinks.md",
     "Food.md",
-    "Tags",
     "To Do For Next Meeting;.md",
     "Routes And Map Documentation.md",
     "Meeting Minutes.md",
