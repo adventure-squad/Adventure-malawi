@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tmp/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
@@ -204,10 +204,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6793b3ab5c9e699",
+  "active": "ab34e93adf9e6c41",
   "lastOpenFiles": [
     "tmp/tmp.md",
-    "tmp/README.md",
+    "README.md",
     "tmp",
     "Attachments/Pasted image 20250705105212.png",
     "Attachments/CloneRepo.png",
