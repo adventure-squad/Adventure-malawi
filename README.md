@@ -6,7 +6,13 @@
 
 #### For Windows
 
+Step 1.
+Make a github acount.
+https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github
 
+Step 2.
+Install [git for windows](https://git-scm.com/download/win)
+![[SelectCLIand3rdPartySofrware.png]]
 
 
 
