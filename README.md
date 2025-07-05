@@ -1,11 +1,21 @@
 # Adventure-TEMPLATE-
 
-### Welcome to the AdventureClub Obsidian notes
+### Welcome to the Adventure-Club Obsidian notes
 
-### Setup:
+## Setup:
+
+#### For Windows
+
+
+
+
+
+
+#### For Mac/Linux
+
 #### Software Install
 - Download and install obsidian: https://obsidian.md/download
-- Download git: https://git-scm.com/downloads/win
+- Download git: https://git-scm.com/downloads
 #### Software Config
 - Make sure you have a github account, if not sign up
 - Make sure you've got an ssh key configured in your github
