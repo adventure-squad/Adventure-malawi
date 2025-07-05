@@ -11,14 +11,17 @@
             "id": "04d739d062e1d88a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": -1380,
+                  "y": -840,
+                  "zoom": -0.07360990715130808
+                }
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-layout-dashboard",
+              "title": "Dashboard"
             }
           },
           {
@@ -207,11 +210,11 @@
   },
   "active": "04d739d062e1d88a",
   "lastOpenFiles": [
+    "README.md",
     "Food.md",
     "Tags",
     "General Planning.md",
     "Test Trip.md",
-    "README.md",
     "Dashboard.canvas",
     "Attachments/004DSCN_6216.jpg",
     "Drinks.md",

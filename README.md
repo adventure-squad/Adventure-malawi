@@ -47,5 +47,3 @@ This one will change depending on which adventure you'll be working on at the ti
 
 
 You may be asked to log in again at some point, this is to make sure that the authentication program has the 
-
-testing this shit you muthafukkaz
