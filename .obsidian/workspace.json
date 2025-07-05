@@ -89,7 +89,7 @@
             }
           },
           {
-            "id": "669b8cbc65631a62",
+            "id": "0b165d14164eda0f",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -207,6 +207,7 @@
   },
   "active": "04d739d062e1d88a",
   "lastOpenFiles": [
+    "Tags",
     "To Do For Next Meeting;.md",
     "README.md",
     "Routes And Map Documentation.md",
@@ -217,7 +218,6 @@
     "Equipment.md",
     "Food.md",
     "conflict-files-obsidian-git.md",
-    "Tags",
     "Test Trip.md",
     "New Text Document.txt",
     "Attachments/Untitled.jpg",
