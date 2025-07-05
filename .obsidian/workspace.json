@@ -37,14 +37,17 @@
             "id": "275f9b8deec08edf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Meeting Minutes.md",
-                "mode": "source",
-                "source": false
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": -1380,
+                  "y": -840,
+                  "zoom": -0.07360990715130808
+                }
               },
-              "icon": "lucide-file",
-              "title": "Meeting Minutes"
+              "icon": "lucide-layout-dashboard",
+              "title": "Dashboard"
             }
           }
         ],
@@ -220,11 +223,13 @@
   },
   "active": "275f9b8deec08edf",
   "lastOpenFiles": [
+    "Attachments/Untitled.jpg",
+    "Attachments/Untitled.webp",
+    "Meeting Minutes.md",
     "Dashboard.canvas",
     "Drinks.md",
     "Itinerary.md",
     "General Planning.md",
-    "Meeting Minutes.md",
     "README.md",
     "Untitled 1.canvas",
     "tmp/tmp.md",
@@ -239,7 +244,6 @@
     "Attachments/PasteKeyAndSave.png",
     "Attachments/GetPublicKey.png",
     "Attachments/GenerateAnSSHKey.png",
-    "Attachments/NavigateToSSHKeySettings.png",
     "To Do For Next Meeting;.md",
     "Attachments/Attachments.md",
     "Food.md",
