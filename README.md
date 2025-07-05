@@ -17,18 +17,11 @@ Step 3.
 Install [git for windows](https://git-scm.com/download/win)
 ![[SelectCLIand3rdPartySofrware.png]]
 
+
 Step 4.
-Download and install Github Desktop:
-https://desktop.github.com/download/
-
-When the installation is completed you'll be greeted with a git desktop.
-You now have all the software you need and can continue to the last step of configuring the software.
-
-
-Step 5.
 Now you'll have to open the CLI and paste a command in, its the one and only
 
-Press  "Windows + R" then type "cmd" and press enter.
+Press  "`Windows + R`" then type "`cmd`" and press `Enter`.
 
 Now please paste the following command and press enter.
 ```cmd
@@ -36,6 +29,17 @@ git config --global credential.helper wincred
 ```
 
 If you get an error here it can be a sign that git hasn't installed correctly, try installing it again, or contact Glenn from customer service.
+
+Step 5.
+Download and install Github Desktop:
+https://desktop.github.com/download/
+
+When the installation is completed you'll be greeted with a git desktop.
+You now have all the software you need and can continue to the last step of configuring the software.
+
+Stop 6.
+Now we will clone the repository:
+![[CloneRepo.png]]
 
 You may be asked to log in again at some point, this is to make sure that the authentication program has the 
 
