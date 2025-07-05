@@ -11,14 +11,17 @@
             "id": "04d739d062e1d88a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": -1380,
+                  "y": -840,
+                  "zoom": -1.0124263906998177
+                }
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-layout-dashboard",
+              "title": "Dashboard"
             }
           },
           {
@@ -207,14 +210,14 @@
   },
   "active": "04d739d062e1d88a",
   "lastOpenFiles": [
+    "Drinks.md",
+    "README.md",
     "Tags",
     "To Do For Next Meeting;.md",
-    "README.md",
     "Routes And Map Documentation.md",
     "General Planning.md",
     "Meeting Minutes.md",
     "Dashboard.canvas",
-    "Drinks.md",
     "Equipment.md",
     "Food.md",
     "conflict-files-obsidian-git.md",
