@@ -56,12 +56,10 @@ Host github.com
 
 
 #### Usage
-1. Open the command line and type: `git clone git@github.com:GlennKromhout/Adventure-TEMPLATE-.git` (note: replace this later when moving to the communal github of Bart)
+1. Open the command line and type: `git clone git@github.com:GlennKromhout/Adventure-TEMPLATE-.git` (note: replace TEMPLATE later when moving to the communal github of Bart)
 2. Open the obsidian app
 3. Select open folder as vault
-4. Select the folder that was just downloaded wot your machine in step 1.
+4. Select the folder that was just downloaded to your machine in step 1.
 5. In order to make this work well you need to enable community plugins.
 ![[Turn this on.png]]
 
-
-TESTING THINGS YES, ITS WORKING!!!
