@@ -23,21 +23,32 @@
             "id": "f6793b3ab5c9e699",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": -480,
-                  "y": -459.875,
-                  "zoom": 0
-                }
+                "file": "Meeting Minutes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "Meeting Minutes"
+            }
+          },
+          {
+            "id": "275f9b8deec08edf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meeting Minutes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Meeting Minutes"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +111,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -206,8 +218,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6793b3ab5c9e699",
+  "active": "275f9b8deec08edf",
   "lastOpenFiles": [
+    "Dashboard.canvas",
+    "Drinks.md",
+    "Itinerary.md",
+    "General Planning.md",
+    "Meeting Minutes.md",
     "README.md",
     "Untitled 1.canvas",
     "tmp/tmp.md",
@@ -223,19 +240,15 @@
     "Attachments/GetPublicKey.png",
     "Attachments/GenerateAnSSHKey.png",
     "Attachments/NavigateToSSHKeySettings.png",
-    "Dashboard.canvas",
     "To Do For Next Meeting;.md",
     "Attachments/Attachments.md",
     "Food.md",
-    "Drinks.md",
     "Test Trip.md",
     "Equipment.md",
     "Routes And Map Documentation.md",
-    "General Planning.md",
     "Organization/Organization.md",
     "Organization",
     "//Untitled.canvas",
-    "Meeting Minutes.md",
     "Safety.md",
     "Vault.md",
     "Attachments"
