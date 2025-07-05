@@ -19,7 +19,7 @@ Install [git for windows](https://git-scm.com/download/win)
 
 
 Step 4.
-Now you'll have to open the CLI and paste a command in, its the one and only
+Now you'll have to open the CLI and paste a command in, its the one and only time I promise.
 
 Press  "`Windows + R`" then type "`cmd`" and press `Enter`.
 

@@ -18,15 +18,9 @@
               "icon": "columns",
               "title": "Overview"
             }
-          }
-        ]
-      },
-      {
-        "id": "feffecb340cb0c25",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "e49a36589c200372",
+            "id": "f6793b3ab5c9e699",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -39,7 +33,8 @@
               "title": "README"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,8 +181,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -209,14 +204,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43f375f1bb448d14",
+  "active": "f6793b3ab5c9e699",
   "lastOpenFiles": [
     "tmp/tmp.md",
+    "tmp/README.md",
     "tmp",
     "Attachments/Pasted image 20250705105212.png",
     "Attachments/CloneRepo.png",
     "Attachments/SelectCLIand3rdPartySofrware.png",
-    "tmp/README.md",
     "Tags",
     "Attachments/AddGitAccountInfo.png",
     "Attachments/MakeSSHConfig.png",
