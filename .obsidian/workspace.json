@@ -23,14 +23,17 @@
             "id": "f6793b3ab5c9e699",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": -480,
+                  "y": -459.875,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-layout-dashboard",
+              "title": "Dashboard"
             }
           }
         ],
@@ -203,10 +206,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5e1a2750922628e8",
+  "active": "f6793b3ab5c9e699",
   "lastOpenFiles": [
-    "tmp/tmp.md",
     "README.md",
+    "Untitled 1.canvas",
+    "tmp/tmp.md",
     "tmp",
     "Attachments/Pasted image 20250705105212.png",
     "Attachments/CloneRepo.png",
@@ -219,7 +223,7 @@
     "Attachments/GetPublicKey.png",
     "Attachments/GenerateAnSSHKey.png",
     "Attachments/NavigateToSSHKeySettings.png",
-    "Untitled.canvas",
+    "Dashboard.canvas",
     "To Do For Next Meeting;.md",
     "Attachments/Attachments.md",
     "Food.md",
