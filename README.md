@@ -14,6 +14,9 @@ Step 2.
 Install [git for windows](https://git-scm.com/download/win)
 ![[SelectCLIand3rdPartySofrware.png]]
 
+Step 3.
+Download and install Github Desktop:
+https://desktop.github.com/download/
 
 
 
