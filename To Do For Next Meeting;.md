@@ -3,7 +3,7 @@ aliases:
   - "ToDo [Next Meeting]:"
 ---
 ### Bart
-- fuck you glenn
+- fuck you glenn beng beng testtest
 ### Victor
 - 
 ### Jannis
