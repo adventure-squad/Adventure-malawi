@@ -3,8 +3,8 @@
 		{"id":"d9ea26733cd1843b","type":"file","file":"To Do For Next Meeting;.md","x":-2440,"y":-1440,"width":400,"height":500,"color":"3"},
 		{"id":"d33cc365aaee5005","type":"file","file":"Meeting Minutes.md","x":-1060,"y":-1440,"width":740,"height":1200,"color":"5"},
 		{"id":"604f0f1121c175c0","type":"file","file":"Itinerary.md","x":-2000,"y":-1440,"width":880,"height":500,"color":"4"},
-		{"id":"f570b5055978b2fe","x":-2000,"y":-900,"width":889,"height":500,"type":"file","file":"Attachments/Untitled.jpg"},
-		{"id":"064fb7e13b42b64b","x":-2440,"y":-900,"width":400,"height":400,"type":"file","file":"Attachments/Untitled.webp"}
+		{"id":"f570b5055978b2fe","type":"file","file":"Attachments/Untitled.jpg","x":-2000,"y":-900,"width":889,"height":500},
+		{"id":"064fb7e13b42b64b","type":"file","file":"Attachments/Untitled.webp","x":-2440,"y":-900,"width":400,"height":400}
 	],
 	"edges":[]
 }

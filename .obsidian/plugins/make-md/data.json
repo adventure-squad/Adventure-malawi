@@ -39,16 +39,17 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//Tags",
-    "//Organization",
-    "//tmp"
+    "//tmp",
+    "//Attachments"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
   "suppressedWarnings": [],
   "spaceSubFolder": ".space",
   "hiddenFiles": [
-    "LICENSE"
+    "LICENSE",
+    "Tags",
+    "Attachments"
   ],
   "hiddenExtensions": [
     ".mdb",

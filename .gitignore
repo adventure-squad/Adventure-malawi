@@ -1,0 +1,44 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Ignore vim files:
+*~
+*.swp
+*.swo
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Office temp files
+~$*.pptx
+~$*.docx
+~$*.xlsx
+
+
+.obsidian/workspace.json
+.obsidian/workspace.json~Glenn
+conflict-files-obsidian-git.md
+
+
+.makemd
+*.mdb
+!spec/*.mdb
+5m
