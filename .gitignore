@@ -39,6 +39,6 @@ conflict-files-obsidian-git.md
 
 
 .makemd
+.makemd/superstate.mdc
 *.mdb
 !spec/*.mdb
-5m
