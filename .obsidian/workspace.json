@@ -90,7 +90,7 @@
             }
           },
           {
-            "id": "3aea656acc1caa63",
+            "id": "ab34e93adf9e6c41",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -208,6 +208,7 @@
   },
   "active": "e49a36589c200372",
   "lastOpenFiles": [
+    "Tags",
     "Attachments/AddGitAccountInfo.png",
     "Attachments/MakeSSHConfig.png",
     "Attachments/MakeSureYourKeyIsThere.png",
@@ -222,14 +223,12 @@
     "Attachments/Attachments.md",
     "README.md",
     "Attachments/TrustAuthor.png",
-    "Attachments/OpenFolderAsVault.png",
     "Food.md",
     "Drinks.md",
     "Test Trip.md",
     "Equipment.md",
     "Routes And Map Documentation.md",
     "General Planning.md",
-    "Tags",
     "Organization/Organization.md",
     "Organization",
     "//Untitled.canvas",

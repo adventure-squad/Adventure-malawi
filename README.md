@@ -43,3 +43,6 @@ Host github.com
 4. Select the folder that was just downloaded wot your machine in step 1.
 5. In order to make this work well you need to enable community plugins.
 ![[Turn this on.png]]
+
+
+TESTING
