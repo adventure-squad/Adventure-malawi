@@ -15,9 +15,9 @@
               "state": {
                 "file": "Dashboard.canvas",
                 "viewState": {
-                  "x": -1385.2832573950336,
-                  "y": -967.286368814731,
-                  "zoom": -0.7402765738179746
+                  "x": -1380,
+                  "y": -840,
+                  "zoom": -0.7663392174212705
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -28,21 +28,17 @@
             "id": "63eb4748e3a71f4b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": -1380,
-                  "y": -840,
-                  "zoom": -0.7663392174212705
-                }
+                "file": "Equipment.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "Equipment"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,19 +208,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63eb4748e3a71f4b",
+  "active": "04d739d062e1d88a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Drinks.md",
     "Dashboard.canvas",
+    "Equipment.md",
+    "Food.md",
+    "conflict-files-obsidian-git.md",
     "Tags",
     "To Do For Next Meeting;.md",
     "Meeting Minutes.md",
     "Test Trip.md",
     "Routes And Map Documentation.md",
     "General Planning.md",
-    "Food.md",
-    "Equipment.md",
-    "Drinks.md",
     "New Text Document.txt",
     "Attachments/Untitled.jpg",
     "Attachments/Untitled.webp",
