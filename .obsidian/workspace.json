@@ -11,17 +11,14 @@
             "id": "04d739d062e1d88a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": -1380,
-                  "y": -840,
-                  "zoom": -1.0124263906998177
-                }
+                "file": "Food.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "Food"
             }
           },
           {
@@ -210,18 +207,19 @@
   },
   "active": "04d739d062e1d88a",
   "lastOpenFiles": [
-    "Drinks.md",
+    "General Planning.md",
+    "Test Trip.md",
     "README.md",
+    "Dashboard.canvas",
+    "Attachments/004DSCN_6216.jpg",
+    "Drinks.md",
+    "Food.md",
     "Tags",
     "To Do For Next Meeting;.md",
     "Routes And Map Documentation.md",
-    "General Planning.md",
     "Meeting Minutes.md",
-    "Dashboard.canvas",
     "Equipment.md",
-    "Food.md",
     "conflict-files-obsidian-git.md",
-    "Test Trip.md",
     "New Text Document.txt",
     "Attachments/Untitled.jpg",
     "Attachments/Untitled.webp",
@@ -236,7 +234,6 @@
     "Attachments/MakeSSHConfig.png",
     "Attachments/MakeSureYourKeyIsThere.png",
     "Attachments/PasteKeyAndSave.png",
-    "Attachments/GetPublicKey.png",
     "Attachments/Attachments.md",
     "Organization/Organization.md",
     "Organization",
