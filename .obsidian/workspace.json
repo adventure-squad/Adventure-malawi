@@ -11,17 +11,14 @@
             "id": "04d739d062e1d88a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": -1380,
-                  "y": -840,
-                  "zoom": -0.07360990715130808
-                }
+                "file": "Routes And Map Documentation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "Routes And Map Documentation"
             }
           },
           {
@@ -210,12 +207,13 @@
   },
   "active": "04d739d062e1d88a",
   "lastOpenFiles": [
+    "Attachments/hiking-guide-to-mount-mulanje.pdf",
     "Drinks.md",
+    "Dashboard.canvas",
     "Equipment.md",
     "Food.md",
     "General Planning.md",
     "Meeting Minutes.md",
-    "Dashboard.canvas",
     "README.md",
     "Tags",
     "Test Trip.md",
