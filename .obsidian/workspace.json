@@ -11,14 +11,17 @@
             "id": "04d739d062e1d88a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Routes And Map Documentation.md",
-                "mode": "source",
-                "source": false
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": -1380,
+                  "y": -840,
+                  "zoom": -0.07360990715130808
+                }
               },
-              "icon": "lucide-file",
-              "title": "Routes And Map Documentation"
+              "icon": "lucide-layout-dashboard",
+              "title": "Dashboard"
             }
           },
           {
@@ -207,24 +210,24 @@
   },
   "active": "04d739d062e1d88a",
   "lastOpenFiles": [
-    "Attachments/hiking-guide-to-mount-mulanje.pdf",
-    "Drinks.md",
-    "Dashboard.canvas",
-    "Equipment.md",
-    "Food.md",
-    "General Planning.md",
+    "To Do For Next Meeting;.md",
+    "Itinerary.md",
     "Meeting Minutes.md",
+    "General Planning.md",
+    "Food.md",
+    "Equipment.md",
+    "Drinks.md",
+    "Routes And Map Documentation.md",
+    "Attachments/hiking-guide-to-mount-mulanje.pdf",
+    "Dashboard.canvas",
     "README.md",
     "Tags",
     "Test Trip.md",
     "Attachments/004DSCN_6216.jpg",
-    "To Do For Next Meeting;.md",
-    "Routes And Map Documentation.md",
     "conflict-files-obsidian-git.md",
     "New Text Document.txt",
     "Attachments/Untitled.jpg",
     "Attachments/Untitled.webp",
-    "Itinerary.md",
     "Untitled 1.canvas",
     "tmp/tmp.md",
     "tmp",
