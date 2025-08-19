@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WhatShouldWeDoInMalawi.md",
+                "file": "FunFactsAboutMalawi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WhatShouldWeDoInMalawi"
+              "title": "FunFactsAboutMalawi"
             }
           },
           {
@@ -208,8 +208,8 @@
   },
   "active": "04d739d062e1d88a",
   "lastOpenFiles": [
-    "FunFactsAboutMalawi.md",
     "WhatShouldWeDoInMalawi.md",
+    "FunFactsAboutMalawi.md",
     "Attachments/127DSC_5684.jpg",
     "Dashboard.canvas",
     "To Do For Next Meeting;.md",
