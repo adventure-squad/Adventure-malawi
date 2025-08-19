@@ -1,3 +1,6 @@
+---
+sticker: emoji//1f977
+---
 
 
 **Glenn:**

@@ -40,7 +40,8 @@
   "expandedSpaces": [
     "/",
     "//tmp",
-    "//Attachments"
+    "//Attachments",
+    "//Organization"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
