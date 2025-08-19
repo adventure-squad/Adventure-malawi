@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equipment.md",
+                "file": "Meeting Minutes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Equipment"
+              "title": "Meeting Minutes"
             }
           },
           {
@@ -89,7 +89,7 @@
             }
           },
           {
-            "id": "b475060248b7087b",
+            "id": "110572ba3087d517",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -196,6 +196,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -207,15 +208,15 @@
   },
   "active": "04d739d062e1d88a",
   "lastOpenFiles": [
-    "Drinks.md",
+    "Routes And Map Documentation.md",
+    "General Planning.md",
+    "Food.md",
     "Equipment.md",
     "Dashboard.canvas",
+    "Drinks.md",
     "To Do For Next Meeting;.md",
     "Itinerary.md",
     "Meeting Minutes.md",
-    "General Planning.md",
-    "Food.md",
-    "Routes And Map Documentation.md",
     "Attachments/hiking-guide-to-mount-mulanje.pdf",
     "README.md",
     "Tags",
