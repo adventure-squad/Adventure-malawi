@@ -11,6 +11,9 @@ sticker: emoji//1f977
 There are these two weird islands on the Tanzania side that belong to Malawi
 ![[Pasted image 20250820185409.png]]
 - There's also a railway network which runs from Mulanje to the southern part of the lake
+- other wetness
+	- monkey bay (sounds piratey)
+	- cape macClear The fish are apparently huge
 - Safari
 	- WE MUST SEE THOMPSON'S GAZZELLE!!! AT ALL COSTS!!!
 	- ![[2009-thom-gazelle.jpg]]
