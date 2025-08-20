@@ -11,7 +11,9 @@ sticker: emoji//1f977
 There are these two weird islands on the Tanzania side that belong to Malawi
 ![[Pasted image 20250820185409.png]]
 - There's also a railway network which runs from Mulanje to the southern part of the lake
-- 
+- Safari
+	- WE MUST SEE THOMPSON'S GAZZELLE!!! AT ALL COSTS!!!
+	- ![[2009-thom-gazelle.jpg]]
 
 Cultural:
 - Malawi is rich in rock art (Chingoni) most of which is in the center near mozambiques westen border UNESCO world heritage site and are an important part of rituals.
