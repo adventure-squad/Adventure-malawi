@@ -17,6 +17,7 @@ There are these two weird islands on the Tanzania side that belong to Malawi
 - Safari
 	- WE MUST SEE THOMPSON'S GAZZELLE!!! AT ALL COSTS!!!
 	- ![[2009-thom-gazelle.jpg]]
+	- There's also this cool reserve near lilongwe that has canopy tours, and if you're lucky there's crocs
 
 Cultural:
 - Malawi is rich in rock art (Chingoni) most of which is in the center near mozambiques westen border UNESCO world heritage site and are an important part of rituals.
