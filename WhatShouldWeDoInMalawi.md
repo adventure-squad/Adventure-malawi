@@ -14,9 +14,10 @@ There are these two weird islands on the Tanzania side that belong to Malawi
 - 
 
 Cultural:
-Malawi is rich in rock art (Chingoni) most of which is in the center near mozambiques westen border UNESCO world heritage site and are an important part of rituals.
-La caverna art gallery
-
+- Malawi is rich in rock art (Chingoni) most of which is in the center near mozambiques westen border UNESCO world heritage site and are an important part of rituals.
+- La caverna art gallery
+- Kumbali Cultural Village
+- The Lepper tree
 
 Tobacco is very important for Malawi but they also have tea and sugar
 
